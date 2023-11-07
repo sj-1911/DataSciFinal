@@ -1,11 +1,10 @@
 # Automated Livestock Harvesting
 
-![Research Project Image]([https://example.com/your-image-url.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fthe-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96&psig=AOvVaw09GPfzd1BKlsnRAAXYuvcZ&ust=1699476392018000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCX_vXhsoIDFQAAAAAdAAAAABAD))
+<img src="[https://www.sudeep.co/images/post_images/2018-02-09-Understanding-the-Data-Science-Lifecycle/chart.png](https://miro.medium.com/v2/resize:fit:1400/1*bD_DMBtKwveuzIkQTwjKQQ.png)" width="150" height="150">
 
 ## Project Description
 
-This research project focuses on *briefly describe the main topic or objective of your research project.* It aims to investigate *provide more details about the goals and objectives of your research.*
-
+This research project employs the AlexNet image processing code to differentiate photos of empty chicken coops verses chicken coops with eggs or other miscellanious items. This program, when paired with a sensor or a "smart" coop or feeder can be used to completley automate the harvesting and processing of poultry.
 ## Key Objectives
 
 - **Objective 1:** Describe the first key objective of your project.
