@@ -2,7 +2,7 @@
 ### Spencer Jackson
 
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*bD_DMBtKwveuzIkQTwjKQQ.png" width="750" height="250">
+<img src="Screenshot 2023-11-07 163750.png" width="750" height="250">
 
 ## Project Description
 
