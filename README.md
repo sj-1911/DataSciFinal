@@ -23,7 +23,7 @@ We will employ the following methodologies to achieve our research goals:
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*bD_DMBtKwveuzIkQTwjKQQ.png" width="750" height="250">
 
 ## Colab Notebooks
--[Data Slides Deck](https://colab.research.google.com/drive/17Eudd7JMDq9vPmBk0KbKX8plnuoairks?usp=sharing)
+-[Data Slides Deck](https://colab.research.google.com/drive/1EhMEL-Xnl5bkMBiz3lgOLendAbR261Fd?usp=sharing)
   * The AlexNet program processes images from a Google Slides presentation. It resizes the images and utilizes a feature map to enhance our understanding of the distinguishing characteristics among these images.
 
 -[Formulas for Data Science](https://colab.research.google.com/drive/1518fgS6H1n42yVluJURPwXE-oD7sU5Sr?usp=sharing)
