@@ -30,4 +30,19 @@ We will employ the following methodologies to achieve our research goals:
   * This Colab snippet utilizes the Matplotlib and NumPy libraries to create and visualize sine wave signals. It demonstrates the generation of sine waves with varying parameters, such as frequency and duration, and includes audio playback functionality for the generated signals.
 
 
+## Data Deck
+
+- Here are a few examples from the input data:
+
+  <img src="https://pastaonthefloor.com/wp-content/uploads/2018/08/Empty-bird-nest-on-white-background-499643337_730x482.jpeg" width="250" height="250"> <!-- Adjust image source accordingly -->
+  <img src="https://previews.123rf.com/images/2002lubava1981/2002lubava19811603/2002lubava1981160300073/53467728-empty-birds-nest-isolated-on-white-background.jpg" width="250" height="250"> <!-- Adjust image source accordingly -->
+  <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2663984.jpg" width="250" height="250"> <!-- Adjust image source accordingly -->
+
+  * **Versus**
+
+  <img src="https://c8.alamy.com/comp/EJH2W0/chicken-eggs-in-nest-of-straw-EJH2W0.jpg" width="250" height="250"> <!-- Adjust image source accordingly -->
+  <img src="https://c8.alamy.com/comp/RNGTKD/top-view-of-chicken-eggs-in-a-nest-on-a-white-background-RNGTKD.jpg" width="250" height="250"> <!-- Adjust image source accordingly -->
+  <img src="https://static.vecteezy.com/system/resources/previews/003/406/386/large_2x/chicken-eggs-in-the-nest-isolated-on-a-white-background-free-photo.jpeg" width="250" height="250"> <!-- Adjust image source accordingly -->
+
+
   
