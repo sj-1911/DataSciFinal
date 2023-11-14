@@ -25,8 +25,9 @@ We will employ the following methodologies to achieve our research goals:
 ## Colab Notebooks
 -[Data Slides Deck](https://colab.research.google.com/drive/17Eudd7JMDq9vPmBk0KbKX8plnuoairks?usp=sharing)
   * The AlexNet program processes images from a Google Slides presentation. It resizes the images and utilizes a feature map to enhance our understanding of the distinguishing characteristics among these images.
--[Formulas for Data Science](https://colab.research.google.com/drive/1518fgS6H1n42yVluJURPwXE-oD7sU5Sr?usp=sharing)
 
+-[Formulas for Data Science](https://colab.research.google.com/drive/1518fgS6H1n42yVluJURPwXE-oD7sU5Sr?usp=sharing)
+  * This Colab snippet utilizes the Matplotlib and NumPy libraries to create and visualize sine wave signals. It demonstrates the generation of sine waves with varying parameters, such as frequency and duration, and includes audio playback functionality for the generated signals.
 
 
   
