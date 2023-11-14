@@ -44,5 +44,6 @@ We will employ the following methodologies to achieve our research goals:
   <img src="https://c8.alamy.com/comp/RNGTKD/top-view-of-chicken-eggs-in-a-nest-on-a-white-background-RNGTKD.jpg" width="250" height="250"> <!-- Adjust image source accordingly -->
   <img src="https://static.vecteezy.com/system/resources/previews/003/406/386/large_2x/chicken-eggs-in-the-nest-isolated-on-a-white-background-free-photo.jpeg" width="250" height="250"> <!-- Adjust image source accordingly -->
 
-
-  
+## WANDB System run
+  <img src="Screenshot 2023-11-14 160117.png" width="750" height="250">
+  - Wanb (Weights & Biases) trial run involves leveraging the platform to log and visualize machine learning experiments. Researchers and data scientists use Wanb to track and compare model performance metrics, hyperparameters, and other experiment details in a collaborative and organized manner.
