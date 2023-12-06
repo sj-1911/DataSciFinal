@@ -10,6 +10,7 @@ This research project employs the AlexNet image processing code to differentiate
 ## Key Objectives
 
 -  In this project, we aim to leverage AlexNet for image differentiation, specifically to enhance its utility in conjunction with a sensor system. Our primary focus is to employ AlexNet's capabilities for distinguishing between various images, with the ultimate goal of optimizing its performance in sensor-related applications. Additionally, we are dedicated to gaining a comprehensive understanding of AlexNet's versatility and its potential as a highly beneficial tool. This research venture is driven by the mission to harness the power of deep learning and convolutional neural networks to contribute to the field of automated livestock harvesting.
+-  In the agracultral world, raising chickens is a staple of self suffencency for all farmers worldwide. Raising chickens will generally take up about half an hour twice a day for around five to ten years. If you addd this time together it ends up being around 1800-3600 hours spent with these animals. With this product, you can fully automate this process, everything from feeding time and harvesting eggs,
 
 ## Methodology
 
